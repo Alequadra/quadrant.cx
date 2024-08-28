@@ -2333,7 +2333,7 @@ figcaption {
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
-  background-color: #969998;
+  background-color: #43caa2;
   border-radius: 0;
   margin-top: 20px;
   margin-left: 0;
@@ -2666,9 +2666,9 @@ figcaption {
   color: #fff;
   -webkit-text-fill-color: inherit;
   background-color: #f4f4f4;
-  background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64f74d5dcd31783a74a64449_simon-lee-36TSQemRAxo-unsplash.jpg");
+  background-image: url("assets/background.jpg");
   background-position: 32% 0;
-  background-size: auto;
+  background-size: cover;
   background-attachment: fixed;
   background-clip: border-box;
   justify-content: center;
@@ -2686,9 +2686,9 @@ figcaption {
   min-height: 300px;
   color: #fff;
   background-color: rgba(0, 0, 0, 0);
-  background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64f74d5dcd31783a74a64449_simon-lee-36TSQemRAxo-unsplash.jpg");
+  background-image: url("assets/background.jpg");
   background-position: 32% 0;
-  background-size: auto;
+  background-size: cover;
   background-attachment: fixed;
   margin: 0 auto;
   padding-left: 0;
@@ -3245,9 +3245,9 @@ figcaption {
 }
 
 .image {
-  background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64e4e1d8f035dc3f432b5039_surface-8rS5UgAc5iw-unsplash.jpg");
+  background-image: url("assets/background.jpg");
   background-position: 0 0;
-  background-size: auto;
+  background-size: cover;
 }
 
 .image-2 {
@@ -3469,9 +3469,9 @@ figcaption {
 .container-2 {
   width: 1000px;
   height: 800px;
-  background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64e8b2af35a6d97f5d737da4_jene-stephaniuk-83y3d6Ou6vE-unsplash.jpg");
+  background-image: url("assets/background.jpg");
   background-position: 0 0;
-  background-size: auto;
+  background-size: cover;
 }
 
 .button-3 {
@@ -4117,9 +4117,9 @@ figcaption {
   min-height: 300px;
   color: #fff;
   background-color: rgba(0, 0, 0, 0);
-  background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64f74d5dcd31783a74a64449_simon-lee-36TSQemRAxo-unsplash.jpg");
+  background-image: url("assets/background.jpg");
   background-position: 32% 0;
-  background-size: auto;
+  background-size: cover;
   background-attachment: fixed;
   margin: 0 auto;
   padding-left: 0;
@@ -4912,10 +4912,10 @@ figcaption {
     width: auto;
     height: auto;
     object-fit: fill;
-    background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64f74d5dcd31783a74a64449_simon-lee-36TSQemRAxo-unsplash.jpg");
+    background-image: url("assets/background.jpg");
     background-position: 32% 0;
     background-repeat: repeat;
-    background-size: auto;
+    background-size: cover;
     background-attachment: scroll;
     margin: 10px 0 0;
     padding-top: 20px;
@@ -5430,9 +5430,9 @@ figcaption {
     width: auto;
     height: auto;
     object-fit: fill;
-    background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64f74d5dcd31783a74a64449_simon-lee-36TSQemRAxo-unsplash.jpg");
+    background-image: url("assets/background.jpg");
     background-position: 36% 1%;
-    background-size: auto;
+    background-size: cover;
     margin: 10px 0 0;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -5444,9 +5444,9 @@ figcaption {
   .intro-header-2.cc-subpage {
     height: 200px;
     min-height: 200px;
-    background-image: url("https://assets-global.website-files.com/64e4de6fd371852cfaca6410/64f74d5dcd31783a74a64449_simon-lee-36TSQemRAxo-unsplash.jpg");
+    background-image: url("assets/background.jpg");
     background-position: 50% 0;
-    background-size: auto;
+    background-size: cover;
     background-attachment: fixed;
     margin-left: auto;
     margin-right: auto;
